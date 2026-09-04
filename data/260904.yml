@@ -7,13 +7,13 @@ about:
   head: 3eea154
   archived: false
   latestVersion: v1.5.5
-  collectedAt: 2026-09-04T19:21:55Z
+  collectedAt: 2026-09-04T21:17:24Z
 timeline:
   created: 2026-04-07
   lastCommit: 2026-07-10
   lastRelease: 2026-07-10
 popularity:
-  star: 2198
+  star: 2197
   watcher: 16
   fork: 405
   release: 16
@@ -86,5 +86,68 @@ total:
   openIssue: 9
   commit: 159
 ---
+path: /home/runner/.x-repo/github.com/phuryn/claude-usage
+collectedAt: 2026-09-04T21:17:24Z
+loc:
+  Python:
+    code: 5060
+    comments: 220
+    blanks: 536
+    files: 11
+  Json:
+    code: 1989
+    comments: 0
+    blanks: 0
+    files: 3
+  TypeScript:
+    code: 1496
+    comments: 254
+    blanks: 173
+    files: 12
+  PowerShell:
+    code: 116
+    comments: 34
+    blanks: 30
+    files: 3
+  Sh:
+    code: 103
+    comments: 31
+    blanks: 21
+    files: 3
+  Ruby:
+    code: 26
+    comments: 15
+    blanks: 5
+    files: 1
+  JavaScript:
+    code: 22
+    comments: 7
+    blanks: 5
+    files: 1
+  Toml:
+    code: 22
+    comments: 9
+    blanks: 5
+    files: 1
+  Dockerfile:
+    code: 8
+    comments: 0
+    blanks: 5
+    files: 1
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 474
+    blanks: 267
+    files: 5
+total:
+  code: 8849
+  comments: 1044
+  blanks: 1047
+  files: 42
 ---
 
