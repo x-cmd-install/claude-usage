@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.5.5"
   latestRelease: "v1.5.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T18:05:45Z
+  collectedAt: 2026-09-10T23:42:13Z
 timeline:
   created: 2026-04-07
   lastCommit: 2026-07-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-10
   lastPrerelease: 
 popularity:
-  star: 2213
+  star: 2214
   watcher: 16
   fork: 407
   release: 16
@@ -89,7 +89,7 @@ total:
   commit: 159
 ---
 path: /home/runner/.x-repo/github.com/phuryn/claude-usage
-collectedAt: 2026-09-10T18:05:47Z
+collectedAt: 2026-09-10T23:42:13Z
 loc:
   Python:
     code: 5060
