@@ -38,7 +38,7 @@ x install claude-usage
 
 ## 流行度
 
-- **Star**: 2,214 · **Fork**: 407 · **开放 issue**: 44 · **贡献者**: 23
+- **Star**: 2,215 · **Fork**: 408 · **开放 issue**: 44 · **贡献者**: 23
 
 ## 累计统计
 
@@ -70,4 +70,4 @@ claude-usage 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T06:08:35Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T18:41:08Z._
