@@ -38,7 +38,7 @@ Total: **8,843** lines of code across **32** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,215 · **Forks**: 408 · **Open issues**: 44 · **Contributors**: 23
+- **Stars**: 2,216 · **Forks**: 408 · **Open issues**: 44 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **8,843** lines of code across **32** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 16 | 0 | 9 | 0 |
-| 90d | 2026-06-13 | 10 | 5 | 18 | 3 | 11 | 45 |
-| last180d | 2026-03-15 | 16 | 39 | 18 | 33 | 11 | 118 |
-| 360d | 2025-09-16 | 16 | 39 | 18 | 33 | 11 | 118 |
-| last720d | 2024-09-21 | 16 | 39 | 18 | 33 | 11 | 159 |
+| 30d | 2026-08-13 | 0 | 0 | 3 | 0 | 3 | 0 |
+| last60d | 2026-07-14 | 0 | 0 | 16 | 0 | 9 | 0 |
+| 90d | 2026-06-14 | 10 | 5 | 18 | 2 | 11 | 45 |
+| last180d | 2026-03-16 | 16 | 39 | 18 | 33 | 11 | 118 |
+| 360d | 2025-09-17 | 16 | 39 | 18 | 33 | 11 | 118 |
+| last720d | 2024-09-22 | 16 | 39 | 18 | 33 | 11 | 159 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for claude-usage lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T18:41:07Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T06:02:39Z._
