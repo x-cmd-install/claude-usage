@@ -4,7 +4,7 @@
 
 A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
 
-![claude-usage](https://repo.x-cmd.io/claude-usage.svg)
+[![x-cmd/install — claude-usage Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-usage.svg)](https://x-cmd.com/install/claude-usage)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **8,843** lines of code across **32** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,228 · **Forks**: 408 · **Open issues**: 44 · **Contributors**: 23
+- **Stars**: 2,228 · **Forks**: 410 · **Open issues**: 44 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 39 · **Open PRs**: 18 · **Closed issues**: 33 · **Open issues**: 11 · **Commits**: 159
+- **Releases**: 16 · **Merged PRs**: 39 · **Open PRs**: 19 · **Closed issues**: 33 · **Open issues**: 11 · **Commits**: 159
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 3 | 0 | 3 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 13 | 0 | 7 | 0 |
-| 90d | 2026-06-20 | 6 | 4 | 18 | 2 | 11 | 23 |
-| last180d | 2026-03-22 | 16 | 39 | 18 | 33 | 11 | 118 |
-| 360d | 2025-09-23 | 16 | 39 | 18 | 33 | 11 | 118 |
-| last720d | 2024-09-28 | 16 | 39 | 18 | 33 | 11 | 159 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 3 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 14 | 0 | 7 | 0 |
+| 90d | 2026-06-22 | 5 | 4 | 19 | 1 | 10 | 20 |
+| last180d | 2026-03-24 | 16 | 39 | 19 | 33 | 11 | 118 |
+| 360d | 2025-09-25 | 16 | 39 | 19 | 33 | 11 | 118 |
+| last720d | 2024-09-30 | 16 | 39 | 19 | 33 | 11 | 159 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for claude-usage lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:26:59Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:20Z._
